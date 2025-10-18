@@ -1,4 +1,4 @@
-#                                                                                     🍔 BurgerHub - Java OOP Project
+#                                                                                     🍔 BurgerHub - Java OOPs Project
 
 # 📘 Overview :-
 
@@ -7,7 +7,6 @@ It demonstrates **real-world application design using classes, methods, encapsul
 
 This project is ideal for **students, beginners, and learners** who want to understand how to structure modular Java programs while solving real-world business problems.
 
----
 
 # 🚀 Features :-
 
@@ -18,7 +17,6 @@ This project is ideal for **students, beginners, and learners** who want to unde
 - 💰 **Automatic bill calculation** based on selected customizations.  
 - 🧾 Generates a clean, itemized **final bill**.
 
----
 
 # 🧠 Object-Oriented Concepts Used :-
 
@@ -30,7 +28,6 @@ This project is ideal for **students, beginners, and learners** who want to unde
 | **Abstraction** | Hides internal calculations; user interacts through clear methods. |
 | **Method Invocation** | Real-world flow simulated via multiple methods (addOns, billing, etc). |
 
----
 
 # 📈 Learning Outcomes :-
 
@@ -41,3 +38,9 @@ This project is ideal for **students, beginners, and learners** who want to unde
 * Practice real-world problem solving using class design
 
 * Strengthen Java fundamentals for placement-ready projects
+
+# 🛠️ Tool :-
+
+* 💻 IntelliJ IDEA Community Edition
+
+* Java JDK 8 or above
