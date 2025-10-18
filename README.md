@@ -52,4 +52,4 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 # 👤 AUTHOR :-
 
-Prakash Kumar (Onlyprakash) image GitHub Profile :- 👉 https://github.com/Onlyprakash
+Prakash Kumar (Onlyprakash) <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/031ef7b6-e6d7-41f6-a3d7-39c63c25c02a" />  GitHub Profile :- 👉 https://github.com/Onlyprakash
