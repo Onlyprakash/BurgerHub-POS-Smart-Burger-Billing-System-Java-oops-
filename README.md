@@ -46,6 +46,10 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 # 🛠️ Tool :-
 
- 💻 IntelliJ IDEA Community Edition
+➤ 💻 IntelliJ IDEA Community Edition
 
- Java JDK 8 or above
+➤ Java JDK 8 or above
+
+# 👤 AUTHOR :-
+
+Prakash Kumar (Onlyprakash) image GitHub Profile :- 👉 https://github.com/Onlyprakash
