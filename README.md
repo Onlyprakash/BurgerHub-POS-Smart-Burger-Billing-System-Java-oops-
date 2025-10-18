@@ -1,6 +1,6 @@
 # 🍔 BurgerHub - Java OOP Project
 
-### 📘 Overview :-
+# 📘 Overview :-
 
 **BurgerHub** is a Java-based object-oriented programming (OOP) project that simulates a simple yet realistic burger ordering system.  
 It demonstrates **real-world application design using classes, methods, encapsulation, and dynamic pricing**, making it a great example of OOP fundamentals in action.
@@ -9,7 +9,8 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 ---
 
-### 🚀 Features :-
+# 🚀 Features :-
+
 - 🍔 Choose between **Veg** or **Non-Veg** burgers.  
 - 🧀 Option to **add extra cheese**.  
 - 🌶️ Option to **add extra toppings**.  
@@ -19,7 +20,8 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 ---
 
-### 🧠 Object-Oriented Concepts Used :-
+# 🧠 Object-Oriented Concepts Used :-
+
 | Concept | Description |
 |----------|--------------|
 | **Class & Object** | The `BurgerHub` class acts as the blueprint for burger creation. |
@@ -30,4 +32,12 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 ---
 
-### 🏗️ Project Structure :-
+# 📈 Learning Outcomes :-
+
+* Understand and implement OOP principles in Java
+
+* Learn how to structure modular and reusable code
+
+* Practice real-world problem solving using class design
+
+* Strengthen Java fundamentals for placement-ready projects
