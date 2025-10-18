@@ -1,4 +1,4 @@
-#                                                                                     🍔 BurgerHub - Java OOPs Project
+# 🍔 BurgerHub - Java OOPs Project
 
 # 📘 Overview :-
 
@@ -10,12 +10,17 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 # 🚀 Features :-
 
-- 🍔 Choose between **Veg** or **Non-Veg** burgers.  
-- 🧀 Option to **add extra cheese**.  
-- 🌶️ Option to **add extra toppings**.  
-- 📦 Add **takeaway packaging** charges.  
-- 💰 **Automatic bill calculation** based on selected customizations.  
-- 🧾 Generates a clean, itemized **final bill**.
+✅  🍔 Choose between **Veg** or **Non-Veg** burgers. 
+
+✅  🧀 Option to **add extra cheese**.  
+
+✅  🌶️ Option to **add extra toppings**. 
+
+✅  📦 Add **takeaway packaging** charges. 
+
+✅  💰 **Automatic bill calculation** based on selected customizations.
+
+✅  🧾 Generates a clean, itemized **final bill**.
 
 
 # 🧠 Object-Oriented Concepts Used :-
@@ -41,6 +46,6 @@ This project is ideal for **students, beginners, and learners** who want to unde
 
 # 🛠️ Tool :-
 
-* 💻 IntelliJ IDEA Community Edition
+ 💻 IntelliJ IDEA Community Edition
 
-* Java JDK 8 or above
+ Java JDK 8 or above
