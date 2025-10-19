@@ -1,4 +1,5 @@
-# 🍔 BurgerHub <img width="50" height="48" alt="Gemini_Generated_Image_3fc5zb3fc5zb3fc5" src="https://github.com/user-attachments/assets/eb41e2e8-a3c6-44fa-bbfc-55182236d048" />
+# 🍔 BurgerHub <img width="60" height="64" alt="Gemini_Generated_Image_l6ubwyl6ubwyl6ub" src="https://github.com/user-attachments/assets/43659be5-3a74-426a-837f-643fab23a24b" />
+
 
 
 # 📋 Project Overview :-
